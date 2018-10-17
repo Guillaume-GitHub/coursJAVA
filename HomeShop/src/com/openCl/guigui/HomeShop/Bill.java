@@ -20,11 +20,11 @@ public class Bill {
 
     }
 
-    public String getCustomer() {
+    public Client getCustomer() {
         return customer;
     }
 
-    public Map<String, Integer> getProduct() {
+    public Map<Product, Integer> getProducts() {
         return products;
     }
 }
