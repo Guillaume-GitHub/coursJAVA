@@ -2,23 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d49ecd8-bbb3-49af-ad0e-87ad835ff491" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Test/com/openCl/guigui/HomeShop/ExpressDeliveryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/com/openCl/guigui/HomeShop/RelayDeliveryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Delivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/DirectDelivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/ExpressDelivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/RelayDelivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/TakeAwayDelivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/openCl/guigui/Paris/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/openCl/guigui/Paris/MoyenDeLocomotion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/openCl/guigui/Paris/Parisien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/openCl/guigui/Paris/Taxi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Writer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/Miam/Aliment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/Miam/Aliment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/Miam/Four.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/Miam/Four.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/com/openCl/guigui/HomeShop/BillTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/com/openCl/guigui/HomeShop/BillTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/Bill.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/Bill.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/Delivery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/Delivery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/DirectDelivery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/DirectDelivery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/ExpressDelivery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/ExpressDelivery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/RelayDelivery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/RelayDelivery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/TakeAwayDelivery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/TakeAwayDelivery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/HomeShop/com/openCl/guigui/HomeShop/BillTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/HomeShop/com/openCl/guigui/HomeShop/BillTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Bill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/openCl/guigui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openCl/guigui/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Delivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/DirectDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/DirectDelivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/ExpressDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/ExpressDelivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/RelayDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/RelayDelivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/TakeAwayDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/TakeAwayDelivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codestyles/Default.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,30 +63,31 @@
     <session id="-661195461">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1971" />
+          <entry key="java" value="2894" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1971" />
+          <entry key="JAVA" value="2894" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="29" />
+          <entry key="java" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="29" />
+          <entry key="JAVA" value="40" />
         </counts>
       </usages-collector>
     </session>
@@ -91,54 +95,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/Paris/Parisien.java">
+        <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Television.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="71" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Delivery.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/DirectDelivery.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+            <state relative-caret-position="204">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
               <folding>
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+                <element signature="e#424#425#0" expanded="true" />
+                <element signature="e#455#456#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/RelayDelivery.java">
+        <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-              <folding>
-                <element signature="e#203#204#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/com/openCl/guigui/HomeShop/RelayDeliveryTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="289">
+              <caret line="25" column="35" selection-start-line="16" selection-end-line="25" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -147,13 +121,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/ExpressDelivery.java">
+        <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+            <state relative-caret-position="221">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
               <folding>
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -162,48 +138,51 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Bill.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            <state relative-caret-position="120">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
-                <element signature="e#519#520#0" expanded="true" />
-                <element signature="e#550#551#0" expanded="true" />
-                <element signature="e#600#601#0" expanded="true" />
-                <element signature="e#631#632#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#601#602#0" expanded="true" />
+                <element signature="e#632#633#0" expanded="true" />
+                <element signature="e#682#683#0" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/com/openCl/guigui/HomeShop/ExpressDeliveryTest.java">
+        <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Delivery.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="102">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/DirectDelivery.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+              <folding>
+                <element signature="e#176#177#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/com/openCl/guigui/HomeShop/BillTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="44" selection-start-line="44" selection-end-line="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/TakeAwayDelivery.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-              <folding>
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/Paris/MoyenDeLocomotion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -213,9 +192,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -227,11 +206,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/openCl/guigui/Miam/Main.java" />
         <option value="$PROJECT_DIR$/Test/com/openCl/guigui/HomeShop/ProductTest.java" />
-        <option value="$PROJECT_DIR$/Test/com/openCl/guigui/HomeShop/BillTest.java" />
         <option value="$PROJECT_DIR$/Test/com/openCl/guigui/HomeShop/ClientTest.java" />
         <option value="$PROJECT_DIR$/src/com/openCl/guigui/Miam/Four.java" />
         <option value="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Client.java" />
-        <option value="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Product.java" />
         <option value="$PROJECT_DIR$/src/com/openCl/guigui/Miam/Aliment.java" />
         <option value="$PROJECT_DIR$/Test/com/openCl/guigui/garage/Vehicule.java" />
         <option value="$PROJECT_DIR$/src/com/openCl/guigui/Garage/Vehicule.java" />
@@ -252,11 +229,16 @@
         <option value="$PROJECT_DIR$/src/com/openCl/guigui/Paris/ExpressDelivery.java" />
         <option value="$PROJECT_DIR$/src/com/openCl/guigui/Paris/RelayDelivery.java" />
         <option value="$PROJECT_DIR$/src/com/openCl/guigui/Paris/TakeAwayDelivery.java" />
-        <option value="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/TakeAwayDelivery.java" />
         <option value="$PROJECT_DIR$/Test/com/openCl/guigui/HomeShop/RelayDeliveryTest.java" />
-        <option value="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/RelayDelivery.java" />
         <option value="$PROJECT_DIR$/Test/com/openCl/guigui/HomeShop/ExpressDeliveryTest.java" />
+        <option value="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Writer.java" />
+        <option value="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Product.java" />
+        <option value="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Delivery.java" />
+        <option value="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/DirectDelivery.java" />
         <option value="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/ExpressDelivery.java" />
+        <option value="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/RelayDelivery.java" />
+        <option value="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/TakeAwayDelivery.java" />
+        <option value="$PROJECT_DIR$/Test/com/openCl/guigui/HomeShop/BillTest.java" />
         <option value="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Bill.java" />
       </list>
     </option>
@@ -273,7 +255,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -308,14 +290,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539780492075" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539802482865" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Test/com/openCl/guigui" />
@@ -345,26 +327,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ExpressDeliveryTest">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.openCl.guigui.Miam.Main" />
+  <component name="RunManager" selected="JUnit.BillTest">
+    <configuration name="BillTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeShop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.openCl.guigui.Miam.*" />
+          <option name="PATTERN" value="com.openCl.guigui.HomeShop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.openCl.guigui.HomeShop" />
+      <option name="MAIN_CLASS_NAME" value="com.openCl.guigui.HomeShop.BillTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.openCl.guigui.Main" />
+    <configuration name="BillTest.Given3ProductAndExpressDelivery_WhenGenerateBill_ThenGetTotal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeShop" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openCl.guigui.HomeShop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.openCl.guigui.HomeShop" />
+      <option name="MAIN_CLASS_NAME" value="com.openCl.guigui.HomeShop.BillTest" />
+      <option name="METHOD_NAME" value="Given3ProductAndExpressDelivery_WhenGenerateBill_ThenGetTotal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BillTest.GivenGE_When_Then" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openCl.guigui.HomeShop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.openCl.guigui.HomeShop" />
+      <option name="MAIN_CLASS_NAME" value="com.openCl.guigui.HomeShop.BillTest" />
+      <option name="METHOD_NAME" value="GivenGE_When_Then" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BillTest.Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openCl.guigui.HomeShop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.openCl.guigui.HomeShop" />
+      <option name="MAIN_CLASS_NAME" value="com.openCl.guigui.HomeShop.BillTest" />
+      <option name="METHOD_NAME" value="Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -383,31 +404,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RelayDeliveryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HomeShop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.openCl.guigui.HomeShop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.openCl.guigui.HomeShop" />
-      <option name="MAIN_CLASS_NAME" value="com.openCl.guigui.HomeShop.RelayDeliveryTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="JUnit.RelayDeliveryTest" />
       <item itemvalue="JUnit.ExpressDeliveryTest" />
+      <item itemvalue="JUnit.BillTest.GivenGE_When_Then" />
+      <item itemvalue="JUnit.BillTest.Given3ProductAndExpressDelivery_WhenGenerateBill_ThenGetTotal" />
+      <item itemvalue="JUnit.BillTest" />
+      <item itemvalue="JUnit.BillTest.Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BillTest" />
+        <item itemvalue="JUnit.BillTest.Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal" />
+        <item itemvalue="JUnit.BillTest.Given3ProductAndExpressDelivery_WhenGenerateBill_ThenGetTotal" />
+        <item itemvalue="JUnit.BillTest.GivenGE_When_Then" />
         <item itemvalue="JUnit.ExpressDeliveryTest" />
-        <item itemvalue="JUnit.RelayDeliveryTest" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -425,27 +435,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RelayDeliveryTest - 2018.10.17 at 14h 24m 22s.xml">
-      <configuration name="RelayDeliveryTest" configurationId="JUnit" />
+    <history-entry file="BillTest_GivenGE_When_Then - 2018.10.17 at 16h 01m 43s.xml">
+      <configuration name="BillTest.GivenGE_When_Then" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RelayDeliveryTest - 2018.10.17 at 14h 30m 37s.xml">
-      <configuration name="RelayDeliveryTest" configurationId="JUnit" />
+    <history-entry file="BillTest_Given3ProductAndExpressDelivery_WhenGenerateBill_ThenGetTotal - 2018.10.17 at 16h 01m 55s.xml">
+      <configuration name="BillTest.Given3ProductAndExpressDelivery_WhenGenerateBill_ThenGetTotal" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExpressDeliveryTest - 2018.10.17 at 14h 42m 05s.xml">
-      <configuration name="ExpressDeliveryTest" configurationId="JUnit" />
+    <history-entry file="BillTest_Given3ProductAndExpressDelivery_WhenGenerateBill_ThenGetTotal - 2018.10.17 at 16h 02m 38s.xml">
+      <configuration name="BillTest.Given3ProductAndExpressDelivery_WhenGenerateBill_ThenGetTotal" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExpressDeliveryTest - 2018.10.17 at 14h 43m 51s.xml">
-      <configuration name="ExpressDeliveryTest" configurationId="JUnit" />
+    <history-entry file="BillTest - 2018.10.17 at 16h 04m 27s.xml">
+      <configuration name="BillTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExpressDeliveryTest - 2018.10.17 at 14h 45m 06s.xml">
-      <configuration name="ExpressDeliveryTest" configurationId="JUnit" />
+    <history-entry file="BillTest - 2018.10.17 at 16h 24m 44s.xml">
+      <configuration name="BillTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillTest - 2018.10.17 at 16h 31m 23s.xml">
+      <configuration name="BillTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillTest_Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal - 2018.10.17 at 16h 34m 35s.xml">
+      <configuration name="BillTest.Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillTest_Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal - 2018.10.17 at 20h 46m 59s.xml">
+      <configuration name="BillTest.Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillTest - 2018.10.17 at 20h 47m 18s.xml">
+      <configuration name="BillTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillTest - 2018.10.17 at 20h 51m 05s.xml">
+      <configuration name="BillTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17700455" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20726173" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -454,7 +479,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -473,7 +498,7 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17700455" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20726173" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -526,24 +551,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/com/openCl/guigui/HomeShop/BillTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/Miam/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -554,26 +565,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/Miam/Four.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-          <folding>
-            <element signature="e#783#784#0" expanded="true" />
-            <element signature="e#839#840#0" expanded="true" />
-            <element signature="e#883#884#0" expanded="true" />
-            <element signature="e#924#925#0" expanded="true" />
-            <element signature="e#957#958#0" expanded="true" />
-            <element signature="e#1013#1014#0" expanded="true" />
-            <element signature="e#1057#1058#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -584,32 +579,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/com/openCl/guigui/garage/Vehicule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-          <folding>
-            <element signature="e#790#791#0" expanded="true" />
-            <element signature="e#868#869#0" expanded="true" />
-            <element signature="e#894#895#0" expanded="true" />
-            <element signature="e#972#973#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/Garage/Vehicule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="e#840#841#0" expanded="true" />
-            <element signature="e#926#927#0" expanded="true" />
-            <element signature="e#956#957#0" expanded="true" />
-            <element signature="e#1042#1043#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/com/openCl/guigui/garage/Vehicule.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/Garage/Vehicule.java" />
     <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Fridge.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -623,47 +594,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Television.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding>
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/Garage/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/Garage/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/Garage/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#198#206#0" expanded="true" />
-            <element signature="e#901#902#0" expanded="true" />
-            <element signature="e#993#994#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
-            <element signature="e#760#761#0" expanded="true" />
-            <element signature="e#797#798#0" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
-            <element signature="e#865#866#0" expanded="true" />
-            <element signature="e#893#894#0" expanded="true" />
-            <element signature="e#933#934#0" expanded="true" />
-            <element signature="e#963#964#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -671,24 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <element signature="e#932#933#0" expanded="true" />
-            <element signature="e#964#965#0" expanded="true" />
-            <element signature="e#1002#1003#0" expanded="true" />
-            <element signature="e#1036#1037#0" expanded="true" />
-            <element signature="e#1075#1076#0" expanded="true" />
-            <element signature="e#1110#1111#0" expanded="true" />
-            <element signature="e#1138#1139#0" expanded="true" />
-            <element signature="e#1165#1166#0" expanded="true" />
-            <element signature="e#1197#1198#0" expanded="true" />
-            <element signature="e#1225#1226#0" expanded="true" />
-            <element signature="e#1254#1255#0" expanded="true" />
-            <element signature="e#1282#1283#0" expanded="true" />
-            <element signature="e#1318#1319#0" expanded="true" />
-            <element signature="e#1351#1352#0" expanded="true" />
-            <element signature="e#1381#1382#0" expanded="true" />
-            <element signature="e#1410#1411#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -699,31 +616,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/Paris/Taxi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="73" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -731,20 +627,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="72" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/Paris/Delivry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/Paris/Delivry.java" />
     <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/Paris/Parisien.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -759,53 +645,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Delivery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/DirectDelivery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          <folding>
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/TakeAwayDelivery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/RelayDelivery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding>
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test/com/openCl/guigui/HomeShop/RelayDeliveryTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -813,32 +656,134 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/ExpressDelivery.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        <state relative-caret-position="327">
+          <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/RelayDelivery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
           <folding>
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/TakeAwayDelivery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Television.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="25" column="35" selection-start-line="16" selection-end-line="25" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Delivery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/DirectDelivery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/com/openCl/guigui/HomeShop/BillTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Bill.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        <state relative-caret-position="120">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
-            <element signature="e#519#520#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
           </folding>
         </state>
       </provider>
