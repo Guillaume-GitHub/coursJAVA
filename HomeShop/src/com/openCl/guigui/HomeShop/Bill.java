@@ -15,7 +15,7 @@ public class Bill {
      * @param product product to add
      * @param quantity the quantity of the product
      */
-    public void addproduct(Product product, Integer quantity){
+    public void addProduct(Product product, Integer quantity){
         this.products.put(product,quantity);
 
     }

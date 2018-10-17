@@ -1,7 +1,7 @@
 package com.openCl.guigui.Garage;
 
 public class Vehicle {
-        private String modelName;
+        protected String modelName;
         private String description;
         private String manufacturer;
         private int year;
