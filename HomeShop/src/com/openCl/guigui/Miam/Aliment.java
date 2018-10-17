@@ -4,6 +4,8 @@ public class Aliment {
     String nom;
     boolean estCuit;
 
+
+
     public void manger(){
         if (estCuit)
             System.out.println("Cet aliment : " + nom + " est cuit");

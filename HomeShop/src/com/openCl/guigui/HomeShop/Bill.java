@@ -5,9 +5,11 @@ import java.util.Map;
 public class Bill {
     private Client customer;
     private Map<Product,Integer> products;
+    private Delivery delivery;
 
-    public Bill(Client client){
+    public Bill(Client client,Delivery delivery){
         this.customer = client;
+        this.delivery = delivery;
     }
 
     /**
@@ -15,16 +17,16 @@ public class Bill {
      * @param product product to add
      * @param quantity the quantity of the product
      */
-    public void addproduct(Product product, Integer quantity){
+    public void addProduct(Product product, Integer quantity){
         this.products.put(product,quantity);
 
     }
 
-    public String getCustomer() {
+    public Client getCustomer() {
         return customer;
     }
 
-    public Map<String, Integer> getProduct() {
+    public Map<Product, Integer> getProducts() {
         return products;
     }
 }
