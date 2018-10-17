@@ -5,6 +5,12 @@ public class Product {
     String description;
     double price;
 
+    public Product(String name, String description, double price) {
+        this.name = name;
+        this.description = description;
+        this.price = price;
+    }
+
     /**
      * Display the full description of the product
      */
@@ -19,5 +25,21 @@ public class Product {
      */
     public  void buy(Bill bill, Integer quantity){
 
+    }
+
+    public double getPrice() {
+        return price;
+    }
+
+    public void setPrice(double price) {
+        this.price = price;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getDescription() {
+        return description;
     }
 }
