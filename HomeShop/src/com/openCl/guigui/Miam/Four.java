@@ -4,7 +4,7 @@ public class Four {
     int capacite;
     int puissance;
 
-    protected Resistance resistance;
+    private Resistance resistance;
     private Soufflerie soufflerie;
 
     public void cuire(Aliment aliment){
@@ -13,5 +13,34 @@ public class Four {
         System.out.println("et ma puissance de " + puissance + " degrés.");
         aliment.estCuit = true;
 
+    }
+
+    private void maintenir(){
+
+    }
+
+    public int GetPuissance(){
+        return puissance;
+    }
+
+    public void SetPuissance(int setPuissance){
+        this.puissance = setPuissance;
+        System.out.println("La puissance est modifiée");
+    }
+
+    public Resistance getResistance() {
+        return resistance;
+    }
+
+    public void setResistance(Resistance resistance) {
+        this.resistance = resistance;
+    }
+
+    public Soufflerie getSoufflerie() {
+        return soufflerie;
+    }
+
+    public void setSoufflerie(Soufflerie soufflerie) {
+        this.soufflerie = soufflerie;
     }
 }
