@@ -20,11 +20,31 @@ public class Main {
         Delivery lowCostRelayDelivery = new RelayDelivery(27);
 
         Bill bill = new Bill(customer,lowCostRelayDelivery);
-        bill.addProduct(cafe, 1);
+       /* bill.addProduct(cafe, 1);
         bill.addProduct(tv, 1);
-        bill.addProduct(fridge, 1);
+        bill.addProduct(fridge, 1);*/
 
-        bill.generate(new FileWriter("Facture LEBLANC"));
+       try{
+        bill.generate(new Writer(){
 
+            @Override
+            public void start() {
+
+            }
+
+            @Override
+            public void writeLine(String line) {
+                System.out.println(line);
+            }
+
+            @Override
+            public void stop() {
+
+            }
+
+        });
+        }catch(NoProductExeption e){
+           System.err.println("Pas de produit dans la facture");
+       }
     }
 }
