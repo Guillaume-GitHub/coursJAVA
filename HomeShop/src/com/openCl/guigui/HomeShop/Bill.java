@@ -1,10 +1,11 @@
 package com.openCl.guigui.HomeShop;
 
+import java.util.HashMap;
 import java.util.Map;
 
 public class Bill {
     private Client customer;
-    private Map<Product,Integer> products;
+    private Map<Product,Integer> products = new HashMap<Product,Integer>();
     private Delivery delivery;
 
     public Bill(Client client,Delivery delivery){
@@ -30,6 +31,8 @@ public class Bill {
     }
 
     public void generate(Writer writer) {
+        if (products.isEmpty())
+            throw new NoProductExeption();
         writer.start();
         writer.writeLine("HomeShop compagnie");
         writer.writeLine("1 Place Charles de Gaulle, 75008 Paris");

@@ -6,22 +6,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class BillTest {
     private String output;
-    Writer writerMock = new Writer() {
-        @Override
-        public void start() {
-        output =  "";
-        }
-
-        @Override
-        public void writeLine(String line) {
-        output += line + "%n";
-        }
-
-        @Override
-        public void stop() {
-
-        }
-    };
 
     private Product cafe = new Product("Philips HD7866/61", "Philips SENSEO Quadrante, Noir - 1 ou 2 tasses", 79.99);
     private Product tv = new Television("TV Samsung UE49MU6292", "Smart TV LED incurvée 49\"", 599, 49, "LED");
@@ -47,4 +31,28 @@ class BillTest {
         bill.addProduct(fridge, 1);
         assertEquals(870.98, bill.getTotal(), 0.01);
     }
+
+    @Test
+    public void Given_emptyProductList_generatingBill_Then_throwsException() {
+        Bill bill = new Bill(customer, lowCostRelayDelivery);
+        assertThrows(NoProductExeption.class, () -> bill.generate(writerMock));
+    }
+
+    Writer writerMock = new Writer() {
+        @Override
+        public void start() {
+            output =  "";
+        }
+
+        @Override
+        public void writeLine(String line) {
+            output += line + "%n";
+        }
+
+        @Override
+        public void stop() {
+
+        }
+    };
+
 }
