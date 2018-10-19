@@ -1,6 +1,7 @@
 package com.openCl.guigui.HomeShop.Web;
 
 import com.openCl.guigui.HomeShop.*;
+import com.openCl.guigui.dao.ProductDao;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -15,12 +16,16 @@ public class BillServlet extends HttpServlet {
 
     @Override
     public void init() throws ServletException {
+        /*
         Product cafe = new Product("Philips HD7866/61", "Philips SENSEO Quadrante, Noir - 1 ou 2 tasses", 79.99);
         Product tv = new Television("TV Samsung UE49MU6292", "Smart TV LED incurvée 49\"", 599, 49, "LED");
         Fridge fridge = new Fridge("BEKO TSE 1042 F", "Réfrigérateur BEKO 130L - Classe A+ - blanc", 189, 130, false);
         products.add(cafe);
         products.add(tv);
         products.add(fridge);
+        */
+        products = new ProductDao().getAll();
+
     }
 
     @Override
