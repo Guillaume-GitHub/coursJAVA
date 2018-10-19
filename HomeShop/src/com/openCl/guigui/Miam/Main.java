@@ -2,6 +2,7 @@ package com.openCl.guigui.Miam;
 
 public class Main {
     public static void main(String[] args) {
+/*
         Four petitFour = new Four();
         petitFour.capacite = 50;
         petitFour.puissance  = 60;
@@ -19,5 +20,9 @@ public class Main {
         System.out.println("");
         grandFour.cuire(cake);
         cake.manger();
+*/
+
+        Four four = new Four();
+        four.cuire(30, 15);
     }
 }

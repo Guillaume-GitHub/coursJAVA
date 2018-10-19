@@ -24,7 +24,7 @@ public class Product {
      * @param bill concerned bill
      * @param quantity  the quantity to add
      */
-    public  void buy(Bill bill, Integer quantity){
+    public void buy(Bill bill, Integer quantity){
 
     }
 

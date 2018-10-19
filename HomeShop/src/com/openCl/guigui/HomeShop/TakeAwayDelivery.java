@@ -7,4 +7,9 @@ public class TakeAwayDelivery implements Delivery {
     public double getPrice() {
         return 4.99;
     }
+
+    @Override
+    public String getInfo() {
+        return "Retrait en magasin";
+    }
 }
