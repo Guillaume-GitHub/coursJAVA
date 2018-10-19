@@ -26,4 +26,5 @@ com\openCl\guigui\HomeShop\Client.class
 com\openCl\guigui\HomeShop\Writer.class
 com\openCl\guigui\Garage\Car.class
 com\openCl\guigui\HomeShop\Television.class
+com\openCl\guigui\HomeShop\Web\BillServlet$1.class
 com\openCl\guigui\HomeShop\Bill.class
