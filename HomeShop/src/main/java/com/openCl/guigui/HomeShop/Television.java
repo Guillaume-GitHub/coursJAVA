@@ -1,5 +1,8 @@
 package com.openCl.guigui.HomeShop;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Television extends Product {
     private int size;
     private String slabType;
@@ -17,4 +20,5 @@ public class Television extends Product {
     public String getSlabType() {
         return slabType;
     }
+
 }
