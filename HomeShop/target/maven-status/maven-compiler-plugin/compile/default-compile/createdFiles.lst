@@ -21,6 +21,7 @@ com\openCl\guigui\Paris\MoyenDeLocomotion.class
 com\openCl\guigui\HomeShop\DirectDelivery.class
 com\openCl\guigui\HomeShop\FileWriter.class
 com\openCl\guigui\Main$1.class
+com\openCl\guigui\HomeShop\Web\BillServlet.class
 com\openCl\guigui\HomeShop\Client.class
 com\openCl\guigui\HomeShop\Writer.class
 com\openCl\guigui\Garage\Car.class

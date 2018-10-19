@@ -3,12 +3,12 @@
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
          version="3.1">
     <servlet>
-        <servlet-name>HelloWorld</servlet-name>
-        <servlet-class>com.openCl.guigui.HomeShop.Web.Servlet</servlet-class>
+        <servlet-name>Bill</servlet-name>
+        <servlet-class>com.openCl.guigui.HomeShop.Web.BillServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
-        <servlet-name>HelloWorld</servlet-name>
-        <url-pattern>/helloworld</url-pattern>
+        <servlet-name>Bill</servlet-name>
+        <url-pattern>/bill</url-pattern>
     </servlet-mapping>
 </web-app>
