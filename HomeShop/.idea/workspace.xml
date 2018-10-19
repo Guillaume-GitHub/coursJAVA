@@ -2,11 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d49ecd8-bbb3-49af-ad0e-87ad835ff491" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/openCl/guigui/HomeShop/Web/BillServletTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/openCl/guigui/dao/ProductDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeShop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeShop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/Garage/Bike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/Garage/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/Garage/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/Bill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/Delivery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/DirectDelivery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/ExpressDelivery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/FileWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/Fridge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/NoProductExeption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/RelayDelivery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/TakeAwayDelivery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/Television.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/HomeShop/Writer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/Miam/Aliment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/Miam/Four.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/Miam/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/Miam/Resistance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/Miam/Soufflerie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/Paris/Bus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/Paris/MoyenDeLocomotion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/Paris/Parisien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeShop/com/openCl/guigui/Paris/Taxi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/HomeShop/com/openCl/guigui/HomeShop/BillTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/HomeShop/com/openCl/guigui/HomeShop/BillTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/HomeShop/com/openCl/guigui/HomeShop/ClientTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/HomeShop/com/openCl/guigui/HomeShop/ExpressDeliveryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/HomeShop/com/openCl/guigui/HomeShop/ProductTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/HomeShop/com/openCl/guigui/HomeShop/RelayDeliveryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/Web/BillServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/Web/BillServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/Web/Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/Web/Servlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openCl/guigui/HomeShop/Web/BillServlet$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openCl/guigui/HomeShop/Web/BillServlet$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/openCl/guigui/HomeShop/Web/BillServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openCl/guigui/HomeShop/Web/BillServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openCl/guigui/HomeShop/Web/Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openCl/guigui/HomeShop/Web/Servlet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code.style.schemes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codestyles/Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaeeExternalResources.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,37 +95,42 @@
     <session id="-661195461">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4386" />
-          <entry key="xml" value="197" />
+          <entry key="java" value="4952" />
+          <entry key="sql" value="2" />
+          <entry key="xml" value="224" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4386" />
-          <entry key="XML" value="197" />
+          <entry key="JAVA" value="4952" />
+          <entry key="SQL" value="2" />
+          <entry key="XML" value="224" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Facture LEBLANC" value="1" />
-          <entry key="java" value="56" />
+          <entry key="java" value="58" />
+          <entry key="sql" value="1" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="56" />
+          <entry key="JAVA" value="58" />
           <entry key="PLAIN_TEXT" value="1" />
+          <entry key="SQL" value="1" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -90,8 +141,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+            <state relative-caret-position="578">
+              <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/openCl/guigui/dao/ProductDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,20 +162,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            <state relative-caret-position="306">
+              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/Web/BillServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="112" column="5" selection-start-line="112" selection-start-column="5" selection-end-line="112" selection-end-column="5" />
+            <state relative-caret-position="374">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#425#434#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/TakeAwayDelivery.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding>
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -121,8 +198,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/openCl/guigui/HomeShop/Web/BillServletTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+            <state relative-caret-position="187">
+              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -145,8 +222,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/Web/Servlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="113" selection-start-line="10" selection-start-column="113" selection-end-line="10" selection-end-column="113" />
+            <state relative-caret-position="187">
+              <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -157,22 +234,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/Bill.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            <state relative-caret-position="221">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/FileWriter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#190#207#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -193,27 +259,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/ExpressDelivery.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
-              <folding>
-                <element signature="e#426#427#0" expanded="true" />
-                <element signature="e#479#480#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -262,11 +315,13 @@
         <option value="$PROJECT_DIR$/src/com/openCl/guigui/Main.java" />
         <option value="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Product.java" />
         <option value="$PROJECT_DIR$/src/com/openCl/guigui/HomeShop/Television.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/Web/Servlet.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/openCl/guigui/HomeShop/Web/BillServletTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/Web/Servlet.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/homeshop.sql" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/Web/BillServlet.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/openCl/guigui/HomeShop/Web/BillServletTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/openCl/guigui/dao/ProductDao.java" />
       </list>
     </option>
   </component>
@@ -305,7 +360,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -346,6 +400,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="guigui" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="guigui" type="462c0819:PsiDirectoryNode" />
               <item name="HomeShop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -377,17 +440,22 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539943152009" />
+    <property name="ToolWindowJob Explorer.ShowToolbar" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539954682850" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -414,7 +482,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="JUnit.BillServletTest">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.openCl.guigui.Main" />
       <module name="HomeShop" />
@@ -428,15 +496,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.openCl.guigui.Miam.Main" />
+    <configuration name="BillServletTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HomeShop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.openCl.guigui.Miam.*" />
+          <option name="PATTERN" value="com.openCl.guigui.HomeShop.Web.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.openCl.guigui.HomeShop.Web" />
+      <option name="MAIN_CLASS_NAME" value="com.openCl.guigui.HomeShop.Web.BillServletTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BillServletTest.Given_twoParams_When_splitParans_Then_fillMapCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openCl.guigui.HomeShop.Web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.openCl.guigui.HomeShop.Web" />
+      <option name="MAIN_CLASS_NAME" value="com.openCl.guigui.HomeShop.Web.BillServletTest" />
+      <option name="METHOD_NAME" value="Given_twoParams_When_splitParans_Then_fillMapCorrectly" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -451,22 +536,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.openCl.guigui.HomeShop" />
       <option name="MAIN_CLASS_NAME" value="com.openCl.guigui.HomeShop.BillTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BillTest.Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HomeShop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.openCl.guigui.HomeShop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.openCl.guigui.HomeShop" />
-      <option name="MAIN_CLASS_NAME" value="com.openCl.guigui.HomeShop.BillTest" />
-      <option name="METHOD_NAME" value="Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -489,18 +558,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.BillTest" />
-      <item itemvalue="JUnit.BillTest.Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.BillTest.Given_emptyProductList_generatingBill_Then_throwsException" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="JUnit.BillServletTest.Given_twoParams_When_splitParans_Then_fillMapCorrectly" />
+      <item itemvalue="JUnit.BillServletTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BillServletTest" />
+        <item itemvalue="JUnit.BillServletTest.Given_twoParams_When_splitParans_Then_fillMapCorrectly" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="JUnit.BillTest" />
         <item itemvalue="JUnit.BillTest.Given_emptyProductList_generatingBill_Then_throwsException" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.BillTest.Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal" />
       </list>
     </recent_temporary>
   </component>
@@ -518,12 +587,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BillTest - 2018.10.17 at 16h 31m 23s.xml">
-      <configuration name="BillTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BillTest_Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal - 2018.10.17 at 16h 34m 35s.xml">
-      <configuration name="BillTest.Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BillTest_Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal - 2018.10.17 at 20h 46m 59s.xml">
       <configuration name="BillTest.Given_3productsAndDelivery_When_generatingBill_Then_getGoodTotal" configurationId="JUnit" />
     </history-entry>
@@ -548,21 +611,31 @@
     <history-entry file="BillTest - 2018.10.18 at 08h 59m 30s.xml">
       <configuration name="BillTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BillServletTest_Given_twoParams_When_splitParans_Then_fillMapCorrectly - 2018.10.19 at 15h 01m 02s.xml">
+      <configuration name="BillServletTest.Given_twoParams_When_splitParans_Then_fillMapCorrectly" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BillServletTest - 2018.10.19 at 15h 01m 14s.xml">
+      <configuration name="BillServletTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="291" y="43" width="973" height="741" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.2904911" />
+      <window_info id="DB Browser" weight="0.34039333" />
+      <window_info id="Project Explorer" weight="0.32980332" />
+      <window_info id="Job Explorer" weight="0.32980332" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.21331316" />
       <window_info id="Structure" order="1" sideWeight="0.50163937" side_tool="true" weight="0.21028744" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="bottom" id="Console" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31955484" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3180328" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -578,27 +651,32 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32869694" />
+      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.32829046" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20726173" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295082" />
+      <window_info id="DB Browser" order="0" weight="0.34039333" />
+      <window_info id="Project Explorer" order="1" weight="0.32980332" />
+      <window_info id="Job Explorer" order="2" weight="0.32980332" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.49836066" weight="0.21331316" />
+      <window_info id="Structure" order="4" sideWeight="0.50163937" side_tool="true" weight="0.21028744" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="UI Designer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Favorites" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="DB Execution Console" order="0" />
+      <window_info anchor="bottom" id="Console" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.3180328" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -606,7 +684,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32829046" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -740,19 +818,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/TakeAwayDelivery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/Delivery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -871,43 +936,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/DirectDelivery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-          <folding>
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/Web/Servlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="113" selection-start-line="10" selection-start-column="113" selection-end-line="10" selection-end-column="113" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/Bill.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/homeshop.sql" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        <state relative-caret-position="578">
+          <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -921,17 +961,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/Web/Servlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        <state relative-caret-position="187">
+          <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/Bill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#190#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/DirectDelivery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/TakeAwayDelivery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/openCl/guigui/HomeShop/Web/BillServletTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+        <state relative-caret-position="187">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -940,11 +1020,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/openCl/guigui/HomeShop/Web/BillServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="112" column="5" selection-start-line="112" selection-start-column="5" selection-end-line="112" selection-end-column="5" />
+        <state relative-caret-position="374">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#425#434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/openCl/guigui/dao/ProductDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -952,6 +1041,78 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HomeShop</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: javax.servlet:javax.servlet-api:3.1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>

@@ -6,9 +6,17 @@
         <servlet-name>Bill</servlet-name>
         <servlet-class>com.openCl.guigui.HomeShop.Web.BillServlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>Wall</servlet-name>
+        <servlet-class>com.openCl.guigui.HomeShop.Web.Servlet</servlet-class>
+    </servlet>
 
     <servlet-mapping>
         <servlet-name>Bill</servlet-name>
         <url-pattern>/bill</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Wall</servlet-name>
+        <url-pattern>/wall</url-pattern>
     </servlet-mapping>
 </web-app>
